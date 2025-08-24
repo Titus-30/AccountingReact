@@ -5,7 +5,7 @@
 
 # Build outputs
 /dist/
-/build/
+ /build/
 
 # Environment variables
 .env
@@ -41,3 +41,6 @@ coverage/
 
 # Ignore any nested Git repositories
 **/.git
+
+# Explicitly ignore accounting_react folder
+accounting_react/
